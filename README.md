@@ -1,6 +1,5 @@
 # Hi 👋 I'm Chisheng Chen!
 
-## About Me
 Fun, tired, and off to sleep.
 
 ## Skills and Tools
